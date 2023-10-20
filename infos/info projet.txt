@@ -1,0 +1,25 @@
+récupération d'un bdd pré traité de Paul Mathieu
+2 ans d'un média de propagande à l'étranger de la russie (2019-2021)
+déjà trié, mots clefs etc...
+
+Chaque article contient forcément le mot FRANCE dedans
+
+
+Objectif:
+En extraire des analyses pertinentes
+clusturing, graph etc
+faire un jolie dashboard à la fin 
+
+
+Carte? 
+Dashboard etc 
+
+151Mo
+
+
+Envoyer dashboard pour la notation
+Pour les analyses en amonts faire un compte rendu
+
+librairie plotly (graph intéractif et dashboard)
+
+voir JS pour rendre le truc plus jolie

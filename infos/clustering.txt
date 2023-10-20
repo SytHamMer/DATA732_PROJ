@@ -1,0 +1,25 @@
+Pour faire le clustering sur le texte
+factoriser les données
+tableaux de nombres
+Vectoriser:
+simple et rapide
+Term Frequency : Pour chaque mot y associer une fréquence pour chaque mot
+Utiliser le TF-IDF pour pondérer les mots
+le faire sur les mots extraits non le contenu complet (pour éviter les mots inutiles)
+
+Word embeddings: (autre méthode)
+plus lourde 
+Word2Vec
+Ou 
+Concurrence: 
+donne une matrice carré (si les mots se retrouvent ensembles ou pas)
+
+Après faire du tri "à la main" (les individues non caractèristiques) (mots useless)
+
+Matrice d'affinité ? 
+
+Clustering ? scikit learn librairie ? (nuages de points)
+
+(Si Matrice d'affinité) Centralité -> Si avancé : permet pour chaque cluster de classer les mots en fonction de leur lien avec d'autres (pas forcément présent mais lié)
+ 
+
