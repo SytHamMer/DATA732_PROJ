@@ -23,3 +23,6 @@ Clustering ? scikit learn librairie ? (nuages de points)
 (Si Matrice d'affinité) Centralité -> Si avancé : permet pour chaque cluster de classer les mots en fonction de leur lien avec d'autres (pas forcément présent mais lié)
  
 
+ForceAtlas2
+
+gephi -> création de graphes pas automatisé
