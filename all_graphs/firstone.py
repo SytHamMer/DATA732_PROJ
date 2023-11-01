@@ -3,6 +3,7 @@ import plotly.express as px
 import pandas as pd
 import data
 import numpy as np
+import networkx as nx
 
 
 COUNTRIES = {
@@ -244,20 +245,57 @@ def all_countries_by_articles(article,y):
 
     fig.show()    
         
+#Function in order to find all the "per" dict inside the json ???
+#change it ? Make it clear ?
+def dict_get(x,key,here=None):
+    x = x.copy()
+    if here is None: here = []
+    if x.get(key):  
+        here.append(x.get(key))
+        x.pop(key)
+    else:
+        for i,j in x.items():
+          if  isinstance(x[i],list): dict_get(x[i][0],key,here)
+          if  isinstance(x[i],dict): dict_get(x[i],key,here)
+    return here
 
-
-
-
-def firstclustering(article):
-    d = data.open_file(data.get_data(article))
+def firstclustering(articleName):
+    print(articleName)
+    d = data.open_file(data.get_data(articleName))
     
     
     #create the matrice
     
-
-
-
+    listPers = []
+    for pers in d["metadata-all"]["fr"]["all"]["per"]:
+        listPers.append(pers)
+    matrice  = pd.DataFrame(0,index=listPers,columns=listPers)
+    #print(matrice)
+    #go into every article and get the differents people
+    allArticles = dict_get(d,"per")
+    cpt = 0
+    for article in allArticles:
+        print(f"{cpt/len(allArticles)*100}%")
+        #temporary condition in order to avoid strange article with 3550 pers inside
+        if len(article)>1 and len(article) < 500:
+            #article : dict with pers and their occurence
+            cpt2=0
+            for pers in article.keys():
+                print(f"On est à {pers} la {cpt2}/{len(article)} personnes")
+                others = {key : value for key,value in article.items() if key != pers}
+                #for everyone add +1 with all other people in his lane
+                for other in others.keys():
+                    matrice.at[pers,other] +=1
+                cpt2+=1
+        cpt+=1
+    print(matrice)
+    
+    
+    #Transform this matrice into a graphe and save it
+    G = nx.from_pandas_adjacency(matrice)
+    nx.write_gml(G,f"graphe_from_{articleName}.gml") 
 
 if __name__ == "__main__":
     
-    all_countries_by_articles("MALI_ER",0)
+    #all_countries_by_articles("MALI_ER",0)
+    firstclustering("FRANCE_ER")
