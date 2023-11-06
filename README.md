@@ -1,10 +1,23 @@
 # School Project
 ## DATA ANALYSE AND VISUALISATION
 
+usefull links:
+https://odsc.medium.com/graph-viz-exploring-analyzing-and-visualizing-graphs-and-networks-with-gephi-and-chatgpt-c45928cf1f08
 
 TODO LIST
-Clean data:
-    remove all accent ?
-    put together same people (like Zemmour and Eric Zemmour etc...)
-    manually ? Automatic ?
+normalise data:
+
+
+    Normalization problem ?
+    Wonder ? 
+
+    Delete strange one ? Like president, wonder... manually 
+
+
+clean code:
+    put the map in another file
+    clean code
+    put everything into differents function
+    use jupyter
+    
 

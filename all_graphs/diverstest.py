@@ -1,21 +1,33 @@
-import networkx as nx
-matrix = [
-    [0, 1, 0, 1],
-    [1, 0, 1, 0],
-    [0, 1, 0, 1],
-    [1, 0, 1, 0]
-]
+import pandas as pd
+import plotly.express as px
 
-# Créez un graphe à partir de la matrice carrée
-G = nx.Graph()
-for i in range(len(matrix)):
-    for j in range(len(matrix[i])):
-        if matrix[i][j] == 1:
-            G.add_edge(i, j)
+# Exemple de données (remplacez par vos propres données)
+listPers = ['Personne1', 'Personne2', 'Personne3']
+data = {
+    'Personne1': [0.1, 0.2, 0.3],
+    'Personne2': [0.4, 0.5, 0.6],
+    'Personne3': [0.7, 0.8, 0.9],
+}
 
-# Vous pouvez ajouter des attributs aux nœuds ou aux arêtes si nécessaire
-# nx.set_node_attributes(G, node_attributes)
-# nx.set_edge_attributes(G, edge_attributes)
+matrice = pd.DataFrame(data, index=listPers, columns=listPers)
 
-# Enregistrez le graphe au format GML pour une utilisation ultérieure avec Gephi
-nx.write_gml(G, "graph.gml")
+# Utilisez pd.melt() pour reformater les données
+matrice_melted = matrice.reset_index().melt(id_vars='index')
+
+# Utilisez px.density_heatmap avec les données reformulées
+fig = px.density_heatmap(
+    matrice_melted,
+    x='index',
+    y='variable',
+    z='value',
+)
+
+# Personnalisez les noms d'axe si nécessaire
+fig.update_xaxes(title="Axe X")
+fig.update_yaxes(title="Axe Y")
+
+# Affichez la figure
+fig.show()
+
+
+

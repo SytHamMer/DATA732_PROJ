@@ -6,6 +6,9 @@ import numpy as np
 import networkx as nx
 
 
+#how close to name must be to be merge
+LIMITE = 6
+
 COUNTRIES = {
     'afghanistan': 'AFG',
     'albanie': 'ALB',
@@ -245,8 +248,17 @@ def all_countries_by_articles(article,y):
 
     fig.show()    
         
+        
+        
+        
+        
+        
+        
 #Function in order to find all the "per" dict inside the json ???
 #change it ? Make it clear ?
+
+
+
 def dict_get(x,key,here=None):
     x = x.copy()
     if here is None: here = []
@@ -259,7 +271,7 @@ def dict_get(x,key,here=None):
           if  isinstance(x[i],dict): dict_get(x[i],key,here)
     return here
 
-def firstclustering(articleName):
+def first_clustering(articleName):
     print(articleName)
     d = data.open_file(data.get_data(articleName))
     
@@ -268,34 +280,89 @@ def firstclustering(articleName):
     
     listPers = []
     for pers in d["metadata-all"]["fr"]["all"]["per"]:
-        listPers.append(pers)
+        normalizePers = data.normalize_name(pers)
+        #remove if their is double after first normalize
+        if normalizePers not in listPers:
+            #add with the new function
+            data.merge_same_name(listPers,normalizePers,LIMITE)
+            #listPers.append(normalizePers)
+        else:
+            print(f"already in : {normalizePers}")
+    with open("TEST_normalizePersList.txt",'w') as f:
+        for i in listPers:
+            f.write(i+"\n")
     matrice  = pd.DataFrame(0,index=listPers,columns=listPers)
-    #print(matrice)
+    print(matrice)
+    
+    
+    
+    
     #go into every article and get the differents people
     allArticles = dict_get(d,"per")
+    with open(f"allArticles{articleName}.json",'w') as f:
+        json.dump(allArticles,f)
     cpt = 0
     for article in allArticles:
         print(f"{cpt/len(allArticles)*100}%")
-        #temporary condition in order to avoid strange article with 3550 pers inside
-        if len(article)>1 and len(article) < 500:
-            #article : dict with pers and their occurence
-            cpt2=0
-            for pers in article.keys():
-                print(f"On est à {pers} la {cpt2}/{len(article)} personnes")
-                others = {key : value for key,value in article.items() if key != pers}
-                #for everyone add +1 with all other people in his lane
-                for other in others.keys():
-                    matrice.at[pers,other] +=1
-                cpt2+=1
+        
+        
+        
+        
+        #ALTERNATIVE SOLUTION IN ORDER TO REDUCE COMPLEXITY
+
+        # Temporary conditions to filter out articles with unusual lengths
+        if 1 < len(article) < 500:
+            # Create a set of normalized person names for faster lookup
+            normalized_names = {data.normalize_name(name) for name in article.keys()}
+
+            for pers in normalized_names:
+                others = {key: value for key, value in article.items() if data.normalize_name(key) != pers}
+                for other in others:
+                    matrice.at[data.get_merge_name(listPers, pers, LIMITE), data.get_merge_name(listPers, data.normalize_name(other), LIMITE)] += 1
+        # if len(article)>1 and len(article) < 500:
+        #     #article : dict with pers and their occurence
+        #     cpt2=0
+        #     for pers in article.keys():
+        #         normalizePers = data.normalize_name(pers)
+        #         # print(f"On est à {normalizePers} la {cpt2}/{len(article)} personnes")
+        #         others = {key : value for key,value in article.items() if data.normalize_name(key) != normalizePers}
+        #         #for everyone add +1 with all other people in his lane
+        #         for other in others.keys():
+        #             normalizeOther = data.normalize_name(other)
+        #             #matrice.at[normalizePers,normalizeOther] +=1
+        #             matrice.at[data.get_merge_name(listPers,normalizePers,LIMITE),data.get_merge_name(listPers,normalizeOther,LIMITE)] +=1
+        #         cpt2+=1
         cpt+=1
     print(matrice)
     
     
+    #Save the matrice as .txt in order to check anybug
+    matrice.to_csv(f"matriceSave{articleName}.txt",sep='\t', index = True)
+    matrice.to_json(f"matriceSave{articleName}.json",orient="split")
+    
+    
+    
+    #Test heatmap
+    
+    matrice_melted = matrice.reset_index().melt(id_vars='index')
+    fig = px.density_heatmap(matrice_melted,
+                             x='index',
+                             y='variable',
+                             z='value')
+    
+    fig.show()
+    
+    
+    
+def matrice_to_graphe(jsonfile,articleName):
+    
+    df = pd.read_json(jsonfile)
+        
     #Transform this matrice into a graphe and save it
-    G = nx.from_pandas_adjacency(matrice)
+    G = nx.from_pandas_adjacency(df)
     nx.write_gml(G,f"graphe_from_{articleName}.gml") 
 
 if __name__ == "__main__":
     
     #all_countries_by_articles("MALI_ER",0)
-    firstclustering("FRANCE_ER")
+    first_clustering("FRANCE_ER")
