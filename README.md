@@ -5,19 +5,22 @@ usefull links:
 https://odsc.medium.com/graph-viz-exploring-analyzing-and-visualizing-graphs-and-networks-with-gephi-and-chatgpt-c45928cf1f08
 
 TODO LIST
-normalise data:
 
 
-    Normalization problem ?
-    Wonder ? 
-
-    Delete strange one ? Like president, wonder... manually 
 
 
-clean code:
-    put the map in another file
-    clean code
-    put everything into differents function
-    use jupyter
-    
 
+MAP:
+delete blue square
+normalize contries name use city name in each contries 
+find why some people are link to nothing
+
+MULTIPROCESSING:
+    divide the article boucle in multiprocess
+
+DASHBOARD:
+
+    create json with top 10 evolution
+        change date to string before
+    put everything together in the same dashboard
+    (create all csv file before)

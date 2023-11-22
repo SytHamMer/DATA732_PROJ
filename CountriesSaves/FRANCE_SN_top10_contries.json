@@ -1,0 +1,4219 @@
+{
+  "darmanin": [
+    {
+      "Loc": "Russie",
+      "Value": 6464,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6462,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 932,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 927,
+      "ISO-3": "TUN"
+    }
+  ],
+  "paty": [],
+  "macron": [
+    {
+      "Loc": "Chine",
+      "Value": 2881,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1088,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2238,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Kowe\u00eft",
+      "Value": 31,
+      "ISO-3": "KWT"
+    },
+    {
+      "Loc": "Jordanie",
+      "Value": 49,
+      "ISO-3": "JOR"
+    },
+    {
+      "Loc": "Qatar",
+      "Value": 263,
+      "ISO-3": "QAT"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2534,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 494,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Chypre",
+      "Value": 80,
+      "ISO-3": "CYP"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3530,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2532,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 998,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1750,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1085,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Arm\u00e9nie",
+      "Value": 336,
+      "ISO-3": "ARM"
+    },
+    {
+      "Loc": "Azerba\u00efdjan",
+      "Value": 463,
+      "ISO-3": "AZE"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6604,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2530,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Jordanie",
+      "Value": 46,
+      "ISO-3": "JOR"
+    },
+    {
+      "Loc": "Kowe\u00eft",
+      "Value": 28,
+      "ISO-3": "KWT"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1747,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2527,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2524,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Azerba\u00efdjan",
+      "Value": 461,
+      "ISO-3": "AZE"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6602,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2879,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2876,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6600,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2874,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Azerba\u00efdjan",
+      "Value": 459,
+      "ISO-3": "AZE"
+    },
+    {
+      "Loc": "Arm\u00e9nie",
+      "Value": 334,
+      "ISO-3": "ARM"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1745,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6598,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2522,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 616,
+      "ISO-3": "CAN"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1081,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6043,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 994,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6594,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6039,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1079,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 492,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6037,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2520,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6591,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2517,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1101,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2872,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2868,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6035,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6589,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1099,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Espagne",
+      "Value": 465,
+      "ISO-3": "ESP"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1547,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2514,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6586,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6033,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1085,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1076,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 372,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2512,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1095,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Espagne",
+      "Value": 461,
+      "ISO-3": "ESP"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1092,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Pays-Bas",
+      "Value": 183,
+      "ISO-3": "NLD"
+    },
+    {
+      "Loc": "Autriche",
+      "Value": 117,
+      "ISO-3": "AUT"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2510,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 490,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Chypre",
+      "Value": 78,
+      "ISO-3": "CYP"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3528,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1073,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Burkina Faso",
+      "Value": 375,
+      "ISO-3": "BFA"
+    },
+    {
+      "Loc": "S\u00e9n\u00e9gal",
+      "Value": 527,
+      "ISO-3": "SEN"
+    },
+    {
+      "Loc": "Togo",
+      "Value": 194,
+      "ISO-3": "TGO"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 411,
+      "ISO-3": "NER"
+    },
+    {
+      "Loc": "Nigeria",
+      "Value": 123,
+      "ISO-3": "NGA"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1071,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1069,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1067,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2508,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 488,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Br\u00e9sil",
+      "Value": 290,
+      "ISO-3": "BRA"
+    },
+    {
+      "Loc": "Australie",
+      "Value": 555,
+      "ISO-3": "AUS"
+    },
+    {
+      "Loc": "Burkina Faso",
+      "Value": 373,
+      "ISO-3": "BFA"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 409,
+      "ISO-3": "NER"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6584,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1545,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2506,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Azerba\u00efdjan",
+      "Value": 457,
+      "ISO-3": "AZE"
+    },
+    {
+      "Loc": "Arm\u00e9nie",
+      "Value": 332,
+      "ISO-3": "ARM"
+    },
+    {
+      "Loc": "Lituanie",
+      "Value": 36,
+      "ISO-3": "LTU"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6581,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 555,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2503,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6030,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1065,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1063,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1061,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1059,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2497,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 482,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1056,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 553,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2495,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1054,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Lituanie",
+      "Value": 34,
+      "ISO-3": "LTU"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6579,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6568,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2493,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 480,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6565,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Pologne",
+      "Value": 344,
+      "ISO-3": "POL"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2866,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6563,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6560,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6558,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2491,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2080,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 370,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1090,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6028,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1743,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6556,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Rwanda",
+      "Value": 299,
+      "ISO-3": "RWA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3523,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 898,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 478,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6026,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6554,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2488,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1542,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1539,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2485,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2480,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3521,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3519,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2478,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3517,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2078,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2236,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2864,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1537,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3515,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1532,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3510,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Australie",
+      "Value": 553,
+      "ISO-3": "AUS"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3508,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Togo",
+      "Value": 191,
+      "ISO-3": "TGO"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 992,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3506,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2076,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6024,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "R\u00e9publique dominicaine",
+      "Value": 8,
+      "ISO-3": "DOM"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6552,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6546,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 990,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 368,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2234,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Kosovo",
+      "Value": 195,
+      "ISO-3": "XKX"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 476,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Rwanda",
+      "Value": 296,
+      "ISO-3": "RWA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6543,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2861,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Chili",
+      "Value": 31,
+      "ISO-3": "CHL"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 364,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6022,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3503,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1050,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1083,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3499,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3496,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3494,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2476,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6020,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1530,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Australie",
+      "Value": 551,
+      "ISO-3": "AUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2859,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6541,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2074,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2474,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1528,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3492,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Burkina Faso",
+      "Value": 371,
+      "ISO-3": "BFA"
+    },
+    {
+      "Loc": "Tchad",
+      "Value": 363,
+      "ISO-3": "TCD"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 407,
+      "ISO-3": "NER"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3490,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2857,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Rwanda",
+      "Value": 294,
+      "ISO-3": "RWA"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 404,
+      "ISO-3": "NER"
+    },
+    {
+      "Loc": "Tchad",
+      "Value": 360,
+      "ISO-3": "TCD"
+    },
+    {
+      "Loc": "Burkina Faso",
+      "Value": 368,
+      "ISO-3": "BFA"
+    },
+    {
+      "Loc": "Mauritanie",
+      "Value": 122,
+      "ISO-3": "MRT"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3488,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6534,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2472,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 988,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 161,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Qatar",
+      "Value": 261,
+      "ISO-3": "QAT"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2232,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6018,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2855,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1044,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1042,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6016,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6010,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6532,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6008,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2470,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1526,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Tchad",
+      "Value": 358,
+      "ISO-3": "TCD"
+    },
+    {
+      "Loc": "Afghanistan",
+      "Value": 947,
+      "ISO-3": "AFG"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6530,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Afghanistan",
+      "Value": 945,
+      "ISO-3": "AFG"
+    },
+    {
+      "Loc": "Liban",
+      "Value": 1039,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6006,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Afghanistan",
+      "Value": 943,
+      "ISO-3": "AFG"
+    },
+    {
+      "Loc": "Japon",
+      "Value": 239,
+      "ISO-3": "JPN"
+    },
+    {
+      "Loc": "Qatar",
+      "Value": 259,
+      "ISO-3": "QAT"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1741,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2853,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 551,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6528,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 159,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Kowe\u00eft",
+      "Value": 26,
+      "ISO-3": "KWT"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3484,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6526,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6002,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6522,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2230,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6520,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 896,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6518,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Br\u00e9sil",
+      "Value": 288,
+      "ISO-3": "BRA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2466,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5998,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2463,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6515,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6512,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6509,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2850,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5995,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6503,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5989,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1735,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2460,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2456,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5985,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2452,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6499,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5983,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Pays-Bas",
+      "Value": 181,
+      "ISO-3": "NLD"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 157,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6495,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2846,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6491,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2844,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5981,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2446,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2438,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5979,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6489,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2436,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 891,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5974,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5971,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6486,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6483,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2838,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5965,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2434,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5963,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Bulgarie",
+      "Value": 60,
+      "ISO-3": "BGR"
+    },
+    {
+      "Loc": "Bulgarie",
+      "Value": 56,
+      "ISO-3": "BGR"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 887,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6481,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 885,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2228,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5961,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6478,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5958,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2225,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1080,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Belgique",
+      "Value": 408,
+      "ISO-3": "BEL"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1078,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1088,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Japon",
+      "Value": 237,
+      "ISO-3": "JPN"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3480,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1086,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5954,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1083,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2223,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 986,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1733,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2432,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 549,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 612,
+      "ISO-3": "CAN"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1078,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1731,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3478,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1075,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1073,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3475,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1069,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Kenya",
+      "Value": 45,
+      "ISO-3": "KEN"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2836,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5952,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Br\u00e9sil",
+      "Value": 286,
+      "ISO-3": "BRA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5950,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6476,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3473,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6474,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5948,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6472,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1076,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Japon",
+      "Value": 235,
+      "ISO-3": "JPN"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2834,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6470,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 883,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "S\u00e9n\u00e9gal",
+      "Value": 525,
+      "ISO-3": "SEN"
+    },
+    {
+      "Loc": "Burkina Faso",
+      "Value": 366,
+      "ISO-3": "BFA"
+    },
+    {
+      "Loc": "Rwanda",
+      "Value": 292,
+      "ISO-3": "RWA"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1524,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Mauritanie",
+      "Value": 120,
+      "ISO-3": "MRT"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 402,
+      "ISO-3": "NER"
+    },
+    {
+      "Loc": "Tchad",
+      "Value": 356,
+      "ISO-3": "TCD"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5945,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2220,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5942,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1074,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 610,
+      "ISO-3": "CAN"
+    },
+    {
+      "Loc": "Japon",
+      "Value": 233,
+      "ISO-3": "JPN"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1067,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5940,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5936,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Br\u00e9sil",
+      "Value": 284,
+      "ISO-3": "BRA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2430,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Arm\u00e9nie",
+      "Value": 330,
+      "ISO-3": "ARM"
+    },
+    {
+      "Loc": "Rwanda",
+      "Value": 290,
+      "ISO-3": "RWA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3471,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 880,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6467,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 878,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 875,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1522,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3469,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5934,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Belgique",
+      "Value": 406,
+      "ISO-3": "BEL"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 984,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 870,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6462,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2428,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3467,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Rwanda",
+      "Value": 288,
+      "ISO-3": "RWA"
+    },
+    {
+      "Loc": "Togo",
+      "Value": 189,
+      "ISO-3": "TGO"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 982,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "B\u00e9nin",
+      "Value": 128,
+      "ISO-3": "BEN"
+    },
+    {
+      "Loc": "Ghana",
+      "Value": 45,
+      "ISO-3": "GHA"
+    },
+    {
+      "Loc": "Burkina Faso",
+      "Value": 364,
+      "ISO-3": "BFA"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2072,
+      "ISO-3": "MAR"
+    }
+  ],
+  "boutin": [],
+  "philippe": [
+    {
+      "Loc": "S\u00e9n\u00e9gal",
+      "Value": 525,
+      "ISO-3": "SEN"
+    },
+    {
+      "Loc": "Mauritanie",
+      "Value": 120,
+      "ISO-3": "MRT"
+    },
+    {
+      "Loc": "Afghanistan",
+      "Value": 943,
+      "ISO-3": "AFG"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6462,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 870,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2220,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5934,
+      "ISO-3": "USA"
+    }
+  ],
+  "maire": [],
+  "trump": [
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6305,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2964,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 655,
+      "ISO-3": "CAN"
+    },
+    {
+      "Loc": "Mexique",
+      "Value": 170,
+      "ISO-3": "MEX"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6302,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2961,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Australie",
+      "Value": 555,
+      "ISO-3": "AUS"
+    },
+    {
+      "Loc": "Japon",
+      "Value": 235,
+      "ISO-3": "JPN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6300,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2959,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6298,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Inde",
+      "Value": 590,
+      "ISO-3": "IND"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6293,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6628,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6289,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6286,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2956,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6624,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6282,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6278,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2952,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6274,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6272,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2091,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3478,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 933,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1525,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6269,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6621,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 1075,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6263,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 575,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Afghanistan",
+      "Value": 943,
+      "ISO-3": "AFG"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6261,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6259,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6256,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6250,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2356,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6248,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "V\u00e9n\u00e9zu\u00e9la",
+      "Value": 10,
+      "ISO-3": "VEN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6246,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6619,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2950,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2947,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6617,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2354,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6244,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6242,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 930,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 1072,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2088,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "Mauritanie",
+      "Value": 120,
+      "ISO-3": "MRT"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6239,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3475,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2080,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 1064,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6231,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Soudan",
+      "Value": 147,
+      "ISO-3": "SDN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6228,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2077,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6225,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 1061,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6614,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2498,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1804,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6610,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6223,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6608,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6218,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6216,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6606,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 573,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6214,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 570,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6211,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2351,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1801,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Y\u00e9men",
+      "Value": 211,
+      "ISO-3": "YEM"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6206,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2347,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1797,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 566,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6202,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2345,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6200,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6197,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2944,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Indon\u00e9sie",
+      "Value": 47,
+      "ISO-3": "IDN"
+    },
+    {
+      "Loc": "Vietnam",
+      "Value": 60,
+      "ISO-3": "VNM"
+    },
+    {
+      "Loc": "Br\u00e9sil",
+      "Value": 286,
+      "ISO-3": "BRA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2342,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 563,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2339,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6194,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 1059,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Bahre\u00efn",
+      "Value": 46,
+      "ISO-3": "BHR"
+    },
+    {
+      "Loc": "Oman",
+      "Value": 7,
+      "ISO-3": "OMN"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 187,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Jordanie",
+      "Value": 46,
+      "ISO-3": "JOR"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 367,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2337,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2334,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6191,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 560,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6184,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6180,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6178,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6176,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 558,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2496,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2332,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2329,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6173,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6169,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 1057,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Palestine",
+      "Value": 72,
+      "ISO-3": "PSE"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6167,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6601,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6162,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1143,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2939,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2327,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6160,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6155,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6599,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6153,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6597,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6151,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6148,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6146,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6143,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2936,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2075,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "Espagne",
+      "Value": 464,
+      "ISO-3": "ESP"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3473,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6141,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3470,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Espagne",
+      "Value": 461,
+      "ISO-3": "ESP"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2072,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6138,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2493,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2325,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6108,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Mexique",
+      "Value": 140,
+      "ISO-3": "MEX"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2906,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2295,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6567,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1113,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 1027,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Cor\u00e9e du Nord",
+      "Value": 128,
+      "ISO-3": "PRK"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 157,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6105,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6100,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2488,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2901,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6565,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6098,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6563,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2486,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Australie",
+      "Value": 551,
+      "ISO-3": "AUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6094,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6091,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6089,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6085,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 651,
+      "ISO-3": "CAN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6080,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2290,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6078,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2288,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6076,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1794,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6072,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2897,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6069,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6560,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2484,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6558,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6556,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6067,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1792,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2482,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1790,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 556,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1787,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2479,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6064,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6553,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2477,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1785,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6062,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6056,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2471,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1779,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6547,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6545,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1777,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6054,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6049,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6543,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Mexique",
+      "Value": 135,
+      "ISO-3": "MEX"
+    },
+    {
+      "Loc": "Guatemala",
+      "Value": 8,
+      "ISO-3": "GTM"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6541,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2895,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6047,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 554,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2286,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6539,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6045,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2891,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6041,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6039,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2889,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6537,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2887,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6037,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1775,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6535,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2469,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6002,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 616,
+      "ISO-3": "CAN"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2852,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 992,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2251,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6500,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1078,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Cor\u00e9e du Nord",
+      "Value": 93,
+      "ISO-3": "PRK"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1740,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2434,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 6000,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2850,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6498,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2249,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Cuba",
+      "Value": 130,
+      "ISO-3": "CUB"
+    },
+    {
+      "Loc": "Cor\u00e9e du Nord",
+      "Value": 88,
+      "ISO-3": "PRK"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5995,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Vietnam",
+      "Value": 55,
+      "ISO-3": "VNM"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6493,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2845,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5993,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1738,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5991,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 476,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6487,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Albanie",
+      "Value": 29,
+      "ISO-3": "ALB"
+    },
+    {
+      "Loc": "Pologne",
+      "Value": 344,
+      "ISO-3": "POL"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 874,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5985,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Cuba",
+      "Value": 124,
+      "ISO-3": "CUB"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2428,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2243,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 986,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Br\u00e9sil",
+      "Value": 284,
+      "ISO-3": "BRA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5983,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Colombie",
+      "Value": 59,
+      "ISO-3": "COL"
+    },
+    {
+      "Loc": "Suisse",
+      "Value": 208,
+      "ISO-3": "CHE"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 984,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5981,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1736,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5979,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6485,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Inde",
+      "Value": 588,
+      "ISO-3": "IND"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2843,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5972,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6478,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5970,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2241,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1076,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5965,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 549,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1731,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2238,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5962,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5953,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2229,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2224,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5948,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6476,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 872,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 614,
+      "ISO-3": "CAN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5946,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2222,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 612,
+      "ISO-3": "CAN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5944,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1067,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Japon",
+      "Value": 233,
+      "ISO-3": "JPN"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1074,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6474,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 870,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Iran",
+      "Value": 2220,
+      "ISO-3": "IRN"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 982,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5942,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5940,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Mexique",
+      "Value": 133,
+      "ISO-3": "MEX"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 610,
+      "ISO-3": "CAN"
+    },
+    {
+      "Loc": "Ha\u00efti",
+      "Value": 106,
+      "ISO-3": "HTI"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1522,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 364,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 927,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6471,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3467,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5934,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6465,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2837,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Cor\u00e9e du Nord",
+      "Value": 85,
+      "ISO-3": "PRK"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 2834,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6462,
+      "ISO-3": "RUS"
+    }
+  ],
+  "melenchon": [
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5934,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Cuba",
+      "Value": 124,
+      "ISO-3": "CUB"
+    },
+    {
+      "Loc": "Mexique",
+      "Value": 133,
+      "ISO-3": "MEX"
+    }
+  ],
+  "zemmour": [
+    {
+      "Loc": "S\u00e9n\u00e9gal",
+      "Value": 525,
+      "ISO-3": "SEN"
+    },
+    {
+      "Loc": "Arm\u00e9nie",
+      "Value": 330,
+      "ISO-3": "ARM"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2428,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Azerba\u00efdjan",
+      "Value": 457,
+      "ISO-3": "AZE"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3467,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Afghanistan",
+      "Value": 943,
+      "ISO-3": "AFG"
+    }
+  ],
+  "haftar": [
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5966,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1700,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1692,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3519,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 405,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 180,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1685,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1683,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1681,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2506,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1746,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 403,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6525,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1678,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Malte",
+      "Value": 17,
+      "ISO-3": "MLT"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1674,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2502,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6522,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 962,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5963,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1671,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 400,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 177,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1669,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1079,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2500,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 489,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6520,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 175,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3517,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6518,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1667,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 960,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2498,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 398,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 173,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5961,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Tchad",
+      "Value": 358,
+      "ISO-3": "TCD"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 404,
+      "ISO-3": "NER"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1664,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2496,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1662,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2493,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1659,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Maroc",
+      "Value": 2072,
+      "ISO-3": "MAR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1654,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1652,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3515,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 958,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2491,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 402,
+      "ISO-3": "NER"
+    },
+    {
+      "Loc": "Tchad",
+      "Value": 356,
+      "ISO-3": "TCD"
+    },
+    {
+      "Loc": "Soudan",
+      "Value": 152,
+      "ISO-3": "SDN"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1649,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1646,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6515,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 170,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 395,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3512,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2488,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6509,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2482,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1640,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1740,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 389,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Chypre",
+      "Value": 85,
+      "ISO-3": "CYP"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 483,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2477,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6504,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1638,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3496,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 942,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1622,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6488,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2475,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1620,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1618,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6486,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2473,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1077,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1615,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1074,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2470,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1610,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2465,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 165,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1605,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2460,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3486,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1595,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2450,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1592,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6483,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5958,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1588,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1736,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2446,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 385,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 479,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Chypre",
+      "Value": 81,
+      "ISO-3": "CYP"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5954,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Royaume-Uni",
+      "Value": 1074,
+      "ISO-3": "GBR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3482,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Isra\u00ebl",
+      "Value": 982,
+      "ISO-3": "ISR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6479,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1585,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2443,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 476,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 382,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Chypre",
+      "Value": 78,
+      "ISO-3": "CYP"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 162,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6476,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1733,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3479,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 939,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1583,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1581,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2441,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1576,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Rwanda",
+      "Value": 288,
+      "ISO-3": "RWA"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 934,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3474,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Soudan",
+      "Value": 147,
+      "ISO-3": "SDN"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 377,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6471,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2436,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1574,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6469,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5952,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 1731,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2434,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1572,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1570,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1566,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 2428,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1560,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 371,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1553,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Tunisie",
+      "Value": 927,
+      "ISO-3": "TUN"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 364,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 3467,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 1067,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5945,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 6462,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1537,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1535,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 160,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1533,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1531,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5943,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "\u00c9mirats arabes unis",
+      "Value": 157,
+      "ISO-3": "ARE"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5940,
+      "ISO-3": "USA"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1528,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "Libye",
+      "Value": 1522,
+      "ISO-3": "LBY"
+    },
+    {
+      "Loc": "\u00c9tats-Unis",
+      "Value": 5934,
+      "ISO-3": "USA"
+    }
+  ]
+}

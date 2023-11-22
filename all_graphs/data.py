@@ -41,51 +41,89 @@ def same_name(name1,name2,limite):
     #the idea is to join similar name together in order to normalize data and clear it
     
 
-    if lvs.distance(name1,name2) < limite:
-        # print(f"{name1} and {name2} are close enougth")
+    if lvs.distance(name1,name2.split(" ")[-1]) < limite:
         return True
     else:
-        # print(f"{name1} and {name2} are NOT close enougth")
-        # print(lvs.distance(name1,name2))
         return False
-    
-    
-def merge_same_name(mergeList,newName,limite):
+
+def merge_same_name(mergeDict,newName,newNameValue,limite):
     i = 0
-    if len(mergeList) == 0:
-        mergeList.append(newName)
-    else:
-        while not(same_name(mergeList[i],newName,limite)) and i<(len(mergeList)-1):
-            i+=1
-        if i>=(len(mergeList)-1):
-            mergeList.append(newName)
+    split = newName.split(" ")
+    if len(mergeDict) == 0:
+        
+        if(len(split)>1):
             
-    # print(mergeList)
-            
-def get_merge_name(mergeList,newName,limite):
-    i=0
-    while lvs.distance(mergeList[i],newName)>limite and i<(len(mergeList)):
-        i+=1
-    if i>=(len(mergeList)):
-        print("====================================")
-        print("ERROR")
-        min=999
-        minName=""
-        for y in range(0,len(mergeList)):
-
-            if lvs.distance(mergeList[y],newName)<min:
-                min = lvs.distance(mergeList[y],newName)
-                minName = mergeList[y]
-            print(f"la distance est de {lvs.distance(mergeList[y],newName)} avec {mergeList[y]}")
-            print(f"La plus petite valeur est {min} pour le mot :{minName}")
-        print(newName)
-        print("====================================")
+            mergeDict[split[-1]] = newNameValue
+        else:
+            mergeDict[newName] = newNameValue
     else:
-        return mergeList[i]
+        
+        
+        if(len(split)>1):
+            while not(same_name(list(mergeDict.keys())[i],split[-1],limite)) and i<(len(mergeDict)-1):
+                i+=1
 
+            if i>=(len(mergeDict)-1):
+            
+                mergeDict[split[-1]] = newNameValue
+            else:
+                # print(i)
+                # print(f"ICi :   {list(mergeDict.keys())[i]}")
+                mergeDict[list(mergeDict.keys())[i]] =  mergeDict[list(mergeDict.keys())[i]] + newNameValue          
+                
+        else:
+            
+            while not(same_name(list(mergeDict.keys())[i],newName,limite)) and i<(len(mergeDict)-1):
+                i+=1
+
+            if i>=(len(mergeDict)-1):
+            
+                mergeDict[newName] = newNameValue
+            else:
+                # print(i)
+                
+                mergeDict[list(mergeDict.keys())[i]] =  mergeDict[list(mergeDict.keys())[i]] + newNameValue          
+                         
+            
+            
+def get_merge_name(mergeList,newName):
+    split = newName.split(" ")
+    if len(split)>0:
+        i = 0 
+        min =999
+        minName = ""
+        for name in mergeList:
+            if lvs.distance(name,split[-1]) <min:
+                min = lvs.distance(name,split[-1])
+                minName = name
+        
+        return minName           
+    else:
+        
+        i = 0 
+        min =999
+        minName = ""
+        for name in mergeList:
+            if lvs.distance(name,newName) <min:
+                min = lvs.distance(name,newName)
+                minName = name
+        
+        return minName
+    
+#Version plus opti ?    
+# def get_merge_name(mergeList, newName):
+#     if " " in newName:
+#         last_word = newName.split()[-1]
+#         return min(mergeList, key=lambda name: lvs.distance(name, last_word))
+#     else:
+#         return min(mergeList, key=lambda name: lvs.distance(name, newName))
     
 if __name__ == '__main__':
-    print(same_name("eric zemmour","zemmour",6))
-    print(merge_same_name(["zemmour","camion","brouette","eric"],"eric zemmofsqdfr",6))
-    print(merge_same_name([],"zemmour",6))
-    print(get_merge_name(["camion","banane","zemmour","papeterie"],"eric zemmour",6))
+    # print(same_name("zemmour","erkjihuugiic zemmour",3))
+    
+    liste = ['kabore', 'ouattara', 'macron', 'kebbab', 'shurkin', 'barkhane',
+       'lelievre', 'barriere', 'conrad', 'soulages','terrafirma', 'sportolloni', 'richard', 'indoor', 'bardella',
+       'bensussan', 'monsieur', 'zagury', 'bermandoa', 'idriss']
+    #print(merge_same_name({"zemmour":1,"camion":2,"brouette":3,"eric":4},"zemmour",2,6))
+    # print(merge_same_name({},"zemmour",2,6))
+    print(get_merge_name(liste,"Soulages"))

@@ -364,5 +364,5 @@ def matrice_to_graphe(jsonfile,articleName):
 
 if __name__ == "__main__":
     
-    #all_countries_by_articles("MALI_ER",0)
-    first_clustering("FRANCE_ER")
+    all_countries_by_articles("MALI_ER",0)
+    #first_clustering("FRANCE_ER")
