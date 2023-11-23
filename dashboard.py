@@ -39,7 +39,6 @@ app.layout = html.Div([
                      options=[], 
                      value='')      
     ]),
-
     # Histogramme 2D
     dcc.Graph(id='bar'),
 
@@ -47,8 +46,9 @@ app.layout = html.Div([
     dcc.Graph(id='line-chart'),
 
     # Carte
-    dcc.Graph(id='map')
-])
+    dcc.Graph(id='map'),
+    
+    ])
 
 
 #callback menu deroulant
@@ -107,7 +107,6 @@ def update_map(selected_dropdown_value_1, selected_dropdown_value_2):
     df_pers = pd.DataFrame(data_pers)
     min_value = df_pers['Value'].min()
     max_value = df_pers['Value'].min()
-    print(min_value)
     map_fig = px.choropleth(df_pers,
                             locations="ISO-3", 
                             locationmode="ISO-3",

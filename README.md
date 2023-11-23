@@ -8,19 +8,19 @@ TODO LIST
 
 
 
-
+GENERAL:
+REGENERATE ALL FILES AGAIN 
 
 MAP:
 delete blue square
-normalize contries name use city name in each contries 
-find why some people are link to nothing
+use city name in each contries 
+take +1 for each article or each apparition by article
 
 MULTIPROCESSING:
     divide the article boucle in multiprocess
 
 DASHBOARD:
 
-    create json with top 10 evolution
-        change date to string before
     put everything together in the same dashboard
-    (create all csv file before)
+    put the graphe relationnel image
+    make it more beautiful

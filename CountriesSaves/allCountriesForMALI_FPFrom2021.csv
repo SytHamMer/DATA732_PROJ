@@ -14,79 +14,76 @@
 12,Rwanda,57,RWA
 13,Cameroun,846,CMR
 14,Chine,422,CHN
-15,États-Unis,1443,USA
-16,Mozambique,365,MOZ
-17,Burundi,217,BDI
-18,Burkina Faso,862,BFA
-19,Érythrée,83,ERI
-20,Israël,756,ISR
-21,Iran,432,IRN
-22,Royaume-Uni,27,GBR
-23,Madagascar,75,MDG
-24,Côte d'Ivoire,101,CIV
-25,Somalie,145,SOM
-26,Congo,33,COG
-27,Libye,258,LBY
-28,Portugal,18,PRT
-29,Ukraine,21,UKR
-30,Bénin,257,BEN
-31,Libéria,7,LBR
-32,Algérie,774,DZA
-33,Espagne,9,ESP
-34,Ouganda,71,UGA
-35,Palestine,48,PSE
-36,Maroc,259,MAR
-37,Tunisie,147,TUN
-38,Turquie,96,TUR
-39,Azerbaïdjan,5,AZE
-40,République centrafricaine,55,CAF
-41,Australie,8,AUS
-42,Suisse,45,CHE
-43,Djibouti,181,DJI
-44,Kenya,128,KEN
-45,Émirats arabes unis,47,ARE
-46,Suède,9,SWE
-47,Togo,61,TGO
-48,Canada,14,CAN
-49,Nouvelle-Zélande,2,NZL
-50,Japon,2,JPN
-51,Syrie,116,SYR
-52,Afghanistan,52,AFG
-53,Tadjikistan,14,TJK
-54,Ouzbékistan,2,UZB
-55,Guinée équatoriale,120,GNQ
-56,Gabon,216,GAB
-57,Tonga,3,TON
-58,Yémen,35,YEM
-59,Haïti,5,HTI
-60,Colombie,2,COL
-61,Tanzanie,33,TZA
-62,Mauritanie,76,MRT
-63,Irak,33,IRQ
-64,Égypte,127,EGY
-65,Norvège,6,NOR
-66,Angola,15,AGO
-67,Gambie,25,GMB
-68,Soudan du Sud,75,SSD
-69,Inde,23,IND
-70,Guinée-Bissau,8,GNB
-71,Seychelles,2,SYC
-72,Sri Lanka,5,LKA
-73,Danemark,17,DNK
-74,BURUNDI,2,BDI
-75,soudan,4,SDN
-76,Irlande,3,IRL
-77,Botswana,5,BWA
-78,Pakistan,2,PAK
-79,Pologne,2,POL
-80,côte d'Ivoire,2,CIV
-81,Hongrie,9,HUN
-82,Belgique,21,BEL
-83,Vietnam,9,VNM
-84,Cambodge,2,KHM
-85,Lituanie,3,LTU
-86,Cuba,14,CUB
-87,Zambie,33,ZMB
-88,Bahreïn,6,BHR
-89,Italie,20,ITA
-90,République Centrafricaine,2,CAF
+15,Mozambique,365,MOZ
+16,Burundi,217,BDI
+17,Burkina Faso,862,BFA
+18,Érythrée,83,ERI
+19,Iran,432,IRN
+20,Madagascar,75,MDG
+21,Somalie,145,SOM
+22,Congo,33,COG
+23,Libye,258,LBY
+24,Portugal,18,PRT
+25,Ukraine,21,UKR
+26,Bénin,257,BEN
+27,Libéria,7,LBR
+28,Liberia,7,LBR
+29,Algérie,774,DZA
+30,Espagne,9,ESP
+31,Venezuela,39,VEN
+32,Ouganda,71,UGA
+33,Palestine,48,PSE
+34,Maroc,259,MAR
+35,Tunisie,147,TUN
+36,Turquie,96,TUR
+37,République centrafricaine,55,CAF
+38,Australie,8,AUS
+39,Suisse,45,CHE
+40,Djibouti,181,DJI
+41,Kenya,128,KEN
+42,Émirats arabes unis,47,ARE
+43,Nigéria,89,NGA
+44,Suède,9,SWE
+45,Togo,61,TGO
+46,Canada,14,CAN
+47,Japon,2,JPN
+48,Syrie,116,SYR
+49,Afghanistan,52,AFG
+50,Tadjikistan,14,TJK
+51,Ouzbékistan,2,UZB
+52,Guinée équatoriale,120,GNQ
+53,Gabon,216,GAB
+54,Tonga,3,TON
+55,Yémen,35,YEM
+56,Colombie,2,COL
+57,Tanzanie,33,TZA
+58,Mauritanie,76,MRT
+59,Irak,33,IRQ
+60,Égypte,127,EGY
+61,Norvège,6,NOR
+62,Angola,15,AGO
+63,Egypte,16,EGY
+64,Gambie,25,GMB
+65,Soudan du Sud,75,SSD
+66,Inde,23,IND
+67,Seychelles,2,SYC
+68,Sri Lanka,5,LKA
+69,Danemark,17,DNK
+70,BURUNDI,2,BDI
+71,soudan,4,SDN
+72,Irlande,3,IRL
+73,Botswana,5,BWA
+74,Pakistan,2,PAK
+75,Pologne,2,POL
+76,Hongrie,9,HUN
+77,Belgique,21,BEL
+78,Vietnam,9,VNM
+79,Cambodge,2,KHM
+80,Lituanie,3,LTU
+81,Cuba,14,CUB
+82,Zambie,33,ZMB
+83,Erythrée,2,ERI
+84,Ethiopie,9,ETH
+85,Italie,20,ITA
+86,République Centrafricaine,2,CAF
+87,Emirats arabes unis,7,ARE

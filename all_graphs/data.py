@@ -25,7 +25,7 @@ def open_file(fileName):
         
     return data    
 
-
+    
 def normalize_name(name):
     #remove accents
     step1 = unicodedata.normalize("NFD",name)

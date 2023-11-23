@@ -12,11 +12,6 @@
       "ISO-3": "PRT"
     },
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 187,
-      "ISO-3": "USA"
-    },
-    {
       "Loc": "G\u00e9orgie",
       "Value": 14,
       "ISO-3": "GEO"
@@ -24,11 +19,6 @@
   ],
   "lilla": [],
   "zemmour": [
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 187,
-      "ISO-3": "USA"
-    },
     {
       "Loc": "Pologne",
       "Value": 79,
@@ -38,11 +28,6 @@
       "Loc": "Hongrie",
       "Value": 44,
       "ISO-3": "HUN"
-    },
-    {
-      "Loc": "Isra\u00ebl",
-      "Value": 72,
-      "ISO-3": "ISR"
     },
     {
       "Loc": "Afghanistan",
@@ -56,11 +41,6 @@
       "Loc": "Chine",
       "Value": 101,
       "ISO-3": "CHN"
-    },
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 189,
-      "ISO-3": "USA"
     },
     {
       "Loc": "Burkina Faso",
@@ -103,11 +83,6 @@
       "ISO-3": "GRC"
     },
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 187,
-      "ISO-3": "USA"
-    },
-    {
       "Loc": "Italie",
       "Value": 256,
       "ISO-3": "ITA"
@@ -133,11 +108,6 @@
       "ISO-3": "BRA"
     },
     {
-      "Loc": "Isra\u00ebl",
-      "Value": 72,
-      "ISO-3": "ISR"
-    },
-    {
       "Loc": "Inde",
       "Value": 30,
       "ISO-3": "IND"
@@ -148,11 +118,6 @@
       "ISO-3": "TUR"
     },
     {
-      "Loc": "Pays-Bas",
-      "Value": 46,
-      "ISO-3": "NLD"
-    },
-    {
       "Loc": "Jordanie",
       "Value": 9,
       "ISO-3": "JOR"
@@ -161,11 +126,6 @@
       "Loc": "Maroc",
       "Value": 274,
       "ISO-3": "MAR"
-    },
-    {
-      "Loc": "Kowe\u00eft",
-      "Value": 4,
-      "ISO-3": "KWT"
     },
     {
       "Loc": "Iran",
@@ -185,6 +145,11 @@
     {
       "Loc": "Italie",
       "Value": 248,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "#Italie",
+      "Value": 5,
       "ISO-3": "ITA"
     },
     {

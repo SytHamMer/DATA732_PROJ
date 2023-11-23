@@ -2,90 +2,71 @@
 0,France,1516,FRA
 1,Niger,454,NER
 2,Libye,460,LBY
-3,Algérie,672,DZA
-4,Burkina Faso,460,BFA
-5,Italie,21,ITA
-6,Togo,230,TGO
-7,Maroc,295,MAR
-8,Égypte,52,EGY
-9,Russie,520,RUS
-10,Chine,141,CHN
-11,Tunisie,156,TUN
-12,États-Unis,330,USA
-13,Turquie,92,TUR
-14,Iran,16,IRN
-15,Koweït,3,KWT
-16,Jordanie,9,JOR
-17,Qatar,10,QAT
-18,Sénégal,276,SEN
-19,Gambie,14,GMB
-20,Cameroun,125,CMR
-21,Nigeria,97,NGA
-22,Cap-Vert,2,CPV
-23,Ghana,39,GHA
-24,Sierra Leone,8,SLE
-25,Burundi,20,BDI
-26,Bénin,71,BEN
-27,Guinée-Bissau,12,GNB
-28,Guinée,122,GIN
-29,Kenya,10,KEN
-30,Rwanda,19,RWA
-31,Côte d'Ivoire,62,CIV
-32,Roumanie,4,ROU
-33,Syrie,107,SYR
-34,Liban,10,LBN
-35,Afghanistan,63,AFG
-36,Tchad,251,TCD
-37,Soudan,43,SDN
-38,Mauritanie,92,MRT
-39,Gabon,12,GAB
-40,Grèce,4,GRC
-41,Émirats arabes unis,20,ARE
-42,Canada,33,CAN
-43,Norvège,6,NOR
-44,Éthiopie,6,ETH
-45,Suisse,6,CHE
-46,Centrafrique,34,CAF
-47,République centrafricaine,17,CAF
-48,Vietnam,4,VNM
-49,Belgique,11,BEL
-50,Somalie,6,SOM
-51,Irak,40,IRQ
-52,Royaume-Uni,30,GBR
-53,Israël,30,ISR
-54,Colombie,2,COL
-55,Pakistan,6,PAK
-56,Inde,32,IND
-57,Pologne,6,POL
-58,Autriche,4,AUT
-59,Arménie,2,ARM
-60,Madagascar,5,MDG
-61,Bahreïn,9,BHR
-62,Yémen,11,YEM
-63,Espagne,24,ESP
-64,Estonie,4,EST
-65,Pays-Bas,6,NLD
-66,Portugal,4,PRT
-67,Suède,2,SWE
-68,République tchèque,2,CZE
-69,Congo,6,COG
-70,Angola,6,AGO
-71,Japon,4,JPN
-72,Émirats Arabes Unis,2,ARE
-73,Brésil,2,BRA
-74,Vénézuéla,2,VEN
-75,Danemark,2,DNK
-76,Corée du Sud,2,KOR
-77,Guinée équatoriale,15,GNQ
-78,Seychelles,2,SYC
-79,Zimbabwe,4,ZWE
-80,Guinée Équatoriale,12,GNQ
-81,Albanie,2,ALB
-82,Soudan du Sud,2,SSD
-83,Ukraine,11,UKR
-84,Australie,14,AUS
-85,Hongrie,2,HUN
-86,République Tchèque,2,CZE
-87,Serbie,11,SRB
-88,Taïwan,2,TWN
-89,Haïti,3,HTI
+3,Burkina Faso,460,BFA
+4,Italie,21,ITA
+5,Togo,230,TGO
+6,Maroc,295,MAR
+7,Russie,520,RUS
+8,Chine,141,CHN
+9,Tunisie,156,TUN
+10,Turquie,92,TUR
+11,Iran,16,IRN
+12,Koweït,3,KWT
+13,Jordanie,9,JOR
+14,Qatar,10,QAT
+15,Gambie,14,GMB
+16,Cameroun,125,CMR
+17,Nigeria,97,NGA
+18,Cap-Vert,2,CPV
+19,Ghana,39,GHA
+20,Sierra Leone,8,SLE
+21,Burundi,20,BDI
+22,Kenya,10,KEN
+23,Rwanda,19,RWA
+24,Côte d'Ivoire,62,CIV
+25,Roumanie,4,ROU
+26,Syrie,107,SYR
+27,Liban,10,LBN
+28,Afghanistan,63,AFG
+29,Tchad,251,TCD
+30,Soudan,43,SDN
+31,Mauritanie,92,MRT
+32,Gabon,12,GAB
+33,Canada,33,CAN
+34,Suisse,6,CHE
+35,Centrafrique,34,CAF
+36,Vietnam,4,VNM
+37,Belgique,11,BEL
+38,Somalie,6,SOM
+39,Irak,40,IRQ
+40,Royaume-Uni,30,GBR
+41,Israël,30,ISR
+42,Venezuela,12,VEN
+43,Colombie,2,COL
+44,Pakistan,6,PAK
+45,Inde,32,IND
+46,Pologne,6,POL
+47,Autriche,4,AUT
+48,Madagascar,5,MDG
+49,Bahreïn,9,BHR
+50,Espagne,24,ESP
+51,Estonie,4,EST
+52,Pays-Bas,6,NLD
+53,Portugal,4,PRT
+54,Liberia,4,LBR
+55,Congo,6,COG
+56,Angola,6,AGO
+57,Japon,4,JPN
+58,Benin,3,BEN
+59,Danemark,2,DNK
+60,Seychelles,2,SYC
+61,Zimbabwe,4,ZWE
+62,Albanie,2,ALB
+63,Soudan du Sud,2,SSD
+64,Ukraine,11,UKR
+65,Australie,14,AUS
+66,Hongrie,2,HUN
+67,Serbie,11,SRB
+68,Etats-Unis,2,USA
+69,Taïwan,2,TWN
+70,Haïti,3,HTI

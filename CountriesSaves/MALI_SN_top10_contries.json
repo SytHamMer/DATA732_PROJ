@@ -8,11 +8,6 @@
       "ISO-3": "IRN"
     },
     {
-      "Loc": "Kowe\u00eft",
-      "Value": 3,
-      "ISO-3": "KWT"
-    },
-    {
       "Loc": "Jordanie",
       "Value": 9,
       "ISO-3": "JOR"
@@ -198,11 +193,6 @@
       "ISO-3": "TUR"
     },
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 330,
-      "ISO-3": "USA"
-    },
-    {
       "Loc": "Libye",
       "Value": 462,
       "ISO-3": "LBY"
@@ -325,11 +315,6 @@
       "ISO-3": "DZA"
     },
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 332,
-      "ISO-3": "USA"
-    },
-    {
       "Loc": "Niger",
       "Value": 468,
       "ISO-3": "NER"
@@ -368,11 +353,6 @@
       "Loc": "Tchad",
       "Value": 253,
       "ISO-3": "TCD"
-    },
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 330,
-      "ISO-3": "USA"
     },
     {
       "Loc": "Niger",

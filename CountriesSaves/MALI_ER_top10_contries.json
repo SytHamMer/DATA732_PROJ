@@ -1,11 +1,6 @@
 {
   "macron": [
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 97,
-      "ISO-3": "USA"
-    },
-    {
       "Loc": "Qatar",
       "Value": 7,
       "ISO-3": "QAT"
@@ -22,23 +17,18 @@
     },
     {
       "Loc": "Burkina Faso",
-      "Value": 30,
+      "Value": 34,
       "ISO-3": "BFA"
     },
     {
       "Loc": "Tchad",
-      "Value": 21,
+      "Value": 27,
       "ISO-3": "TCD"
     },
     {
       "Loc": "Niger",
-      "Value": 47,
+      "Value": 51,
       "ISO-3": "NER"
-    },
-    {
-      "Loc": "Royaume-Uni",
-      "Value": 7,
-      "ISO-3": "GBR"
     },
     {
       "Loc": "Gr\u00e8ce",
@@ -56,18 +46,8 @@
       "ISO-3": "ITA"
     },
     {
-      "Loc": "Royaume-Uni",
-      "Value": 5,
-      "ISO-3": "GBR"
-    },
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 95,
-      "ISO-3": "USA"
-    },
-    {
       "Loc": "Syrie",
-      "Value": 55,
+      "Value": 63,
       "ISO-3": "SYR"
     },
     {
@@ -92,13 +72,8 @@
     },
     {
       "Loc": "Irak",
-      "Value": 21,
+      "Value": 29,
       "ISO-3": "IRQ"
-    },
-    {
-      "Loc": "Isra\u00ebl",
-      "Value": 33,
-      "ISO-3": "ISR"
     },
     {
       "Loc": "Br\u00e9sil",
@@ -106,14 +81,39 @@
       "ISO-3": "BRA"
     },
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 92,
-      "ISO-3": "USA"
+      "Loc": "Tchad",
+      "Value": 23,
+      "ISO-3": "TCD"
     },
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 87,
-      "ISO-3": "USA"
+      "Loc": "Liban",
+      "Value": 6,
+      "ISO-3": "LBN"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 25,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 59,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Burkina Faso",
+      "Value": 30,
+      "ISO-3": "BFA"
+    },
+    {
+      "Loc": "Afghanistan",
+      "Value": 12,
+      "ISO-3": "AFG"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 47,
+      "ISO-3": "NER"
     },
     {
       "Loc": "Irak",
@@ -126,14 +126,14 @@
       "ISO-3": "SYR"
     },
     {
+      "Loc": "Tchad",
+      "Value": 21,
+      "ISO-3": "TCD"
+    },
+    {
       "Loc": "Australie",
       "Value": 2,
       "ISO-3": "AUS"
-    },
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 84,
-      "ISO-3": "USA"
     },
     {
       "Loc": "Chine",
@@ -157,11 +157,6 @@
     }
   ],
   "barkhane": [
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 84,
-      "ISO-3": "USA"
-    },
     {
       "Loc": "Niger",
       "Value": 51,
@@ -198,11 +193,6 @@
       "ISO-3": "NER"
     },
     {
-      "Loc": "Royaume-Uni",
-      "Value": 5,
-      "ISO-3": "GBR"
-    },
-    {
       "Loc": "Burkina Faso",
       "Value": 32,
       "ISO-3": "BFA"
@@ -223,8 +213,7 @@
       "ISO-3": "NER"
     }
   ],
-  "soral": [],
-  "trump": [
+  "soral": [
     {
       "Loc": "Gr\u00e8ce",
       "Value": 6,
@@ -239,16 +228,6 @@
       "Loc": "Italie",
       "Value": 19,
       "ISO-3": "ITA"
-    },
-    {
-      "Loc": "Royaume-Uni",
-      "Value": 5,
-      "ISO-3": "GBR"
-    },
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 84,
-      "ISO-3": "USA"
     },
     {
       "Loc": "Syrie",
@@ -281,9 +260,76 @@
       "ISO-3": "IRQ"
     },
     {
-      "Loc": "Isra\u00ebl",
-      "Value": 33,
-      "ISO-3": "ISR"
+      "Loc": "Br\u00e9sil",
+      "Value": 6,
+      "ISO-3": "BRA"
+    }
+  ],
+  "trump": [
+    {
+      "Loc": "Gr\u00e8ce",
+      "Value": 6,
+      "ISO-3": "GRC"
+    },
+    {
+      "Loc": "Espagne",
+      "Value": 8,
+      "ISO-3": "ESP"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 19,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 50,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Norv\u00e8ge",
+      "Value": 2,
+      "ISO-3": "NOR"
+    },
+    {
+      "Loc": "Chine",
+      "Value": 11,
+      "ISO-3": "CHN"
+    },
+    {
+      "Loc": "Ukraine",
+      "Value": 10,
+      "ISO-3": "UKR"
+    },
+    {
+      "Loc": "Russie",
+      "Value": 79,
+      "ISO-3": "RUS"
+    },
+    {
+      "Loc": "Irak",
+      "Value": 16,
+      "ISO-3": "IRQ"
+    },
+    {
+      "Loc": "Br\u00e9sil",
+      "Value": 10,
+      "ISO-3": "BRA"
+    },
+    {
+      "Loc": "Tchad",
+      "Value": 21,
+      "ISO-3": "TCD"
+    },
+    {
+      "Loc": "Argentine",
+      "Value": 3,
+      "ISO-3": "ARG"
+    },
+    {
+      "Loc": "Canada",
+      "Value": 3,
+      "ISO-3": "CAN"
     },
     {
       "Loc": "Br\u00e9sil",
@@ -306,16 +352,6 @@
       "Loc": "Italie",
       "Value": 19,
       "ISO-3": "ITA"
-    },
-    {
-      "Loc": "Royaume-Uni",
-      "Value": 5,
-      "ISO-3": "GBR"
-    },
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 94,
-      "ISO-3": "USA"
     },
     {
       "Loc": "Syrie",
@@ -348,11 +384,6 @@
       "ISO-3": "IRQ"
     },
     {
-      "Loc": "Isra\u00ebl",
-      "Value": 36,
-      "ISO-3": "ISR"
-    },
-    {
       "Loc": "Br\u00e9sil",
       "Value": 6,
       "ISO-3": "BRA"
@@ -373,11 +404,6 @@
       "ISO-3": "RUS"
     },
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 87,
-      "ISO-3": "USA"
-    },
-    {
       "Loc": "Russie",
       "Value": 79,
       "ISO-3": "RUS"
@@ -393,19 +419,9 @@
       "ISO-3": "TUR"
     },
     {
-      "Loc": "Isra\u00ebl",
-      "Value": 33,
-      "ISO-3": "ISR"
-    },
-    {
       "Loc": "Iran",
       "Value": 5,
       "ISO-3": "IRN"
-    },
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 84,
-      "ISO-3": "USA"
     },
     {
       "Loc": "Jordanie",
@@ -445,11 +461,6 @@
   ],
   "kadhafi": [
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 93,
-      "ISO-3": "USA"
-    },
-    {
       "Loc": "Irak",
       "Value": 16,
       "ISO-3": "IRQ"
@@ -485,34 +496,81 @@
       "ISO-3": "LBY"
     },
     {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 84,
-      "ISO-3": "USA"
-    },
-    {
       "Loc": "Russie",
       "Value": 79,
       "ISO-3": "RUS"
     }
   ],
-  "kacimi": [],
-  "ghali": [],
+  "kacimi": [
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 20,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 45,
+      "ISO-3": "NER"
+    },
+    {
+      "Loc": "Syrie",
+      "Value": 50,
+      "ISO-3": "SYR"
+    },
+    {
+      "Loc": "Y\u00e9men",
+      "Value": 2,
+      "ISO-3": "YEM"
+    },
+    {
+      "Loc": "Turquie",
+      "Value": 29,
+      "ISO-3": "TUR"
+    },
+    {
+      "Loc": "\u00c9gypte",
+      "Value": 2,
+      "ISO-3": "EGY"
+    },
+    {
+      "Loc": "Soudan",
+      "Value": 2,
+      "ISO-3": "SDN"
+    }
+  ],
+  "ghali": [
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 31,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 27,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 22,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Burkina Faso",
+      "Value": 30,
+      "ISO-3": "BFA"
+    },
+    {
+      "Loc": "Alg\u00e9rie",
+      "Value": 20,
+      "ISO-3": "DZA"
+    },
+    {
+      "Loc": "Niger",
+      "Value": 45,
+      "ISO-3": "NER"
+    }
+  ],
   "traore": [
-    {
-      "Loc": "Isra\u00ebl",
-      "Value": 33,
-      "ISO-3": "ISR"
-    },
-    {
-      "Loc": "\u00c9tats-Unis",
-      "Value": 84,
-      "ISO-3": "USA"
-    },
-    {
-      "Loc": "Azerba\u00efdjan",
-      "Value": 3,
-      "ISO-3": "AZE"
-    },
     {
       "Loc": "Turquie",
       "Value": 29,
@@ -527,6 +585,56 @@
       "Loc": "Su\u00e8de",
       "Value": 2,
       "ISO-3": "SWE"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 22,
+      "ISO-3": "ITA"
+    },
+    {
+      "Loc": "Danemark",
+      "Value": 3,
+      "ISO-3": "DNK"
+    },
+    {
+      "Loc": "Hongrie",
+      "Value": 2,
+      "ISO-3": "HUN"
+    },
+    {
+      "Loc": "Belgique",
+      "Value": 5,
+      "ISO-3": "BEL"
+    },
+    {
+      "Loc": "Autriche",
+      "Value": 6,
+      "ISO-3": "AUT"
+    },
+    {
+      "Loc": "Luxembourg",
+      "Value": 2,
+      "ISO-3": "LUX"
+    },
+    {
+      "Loc": "Mexique",
+      "Value": 2,
+      "ISO-3": "MEX"
+    },
+    {
+      "Loc": "Suisse",
+      "Value": 4,
+      "ISO-3": "CHE"
+    },
+    {
+      "Loc": "Br\u00e9sil",
+      "Value": 6,
+      "ISO-3": "BRA"
+    },
+    {
+      "Loc": "Italie",
+      "Value": 19,
+      "ISO-3": "ITA"
     }
   ],
   "habib": []
