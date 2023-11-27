@@ -46,7 +46,7 @@ app.layout = html.Div([
     dcc.Graph(id='line-chart'),
 
     # Carte
-    dcc.Graph(id='map'),
+    dcc.Graph(id='map', config={'scrollZoom': False}),
     
     ])
 
@@ -71,7 +71,8 @@ def update_2_dropdown(selected_journal):
 def update_bar_line(selected_dropdown_value):
     
     bar_df = pd.read_csv(f"PeopleSaves/{selected_dropdown_value}_Top10_People.csv")
-    bar_fig = px.bar(bar_df, x='Names', y='Values', labels={'Names': 'Nom', 'Values': 'Valeur'}, title='Histogramme des 10 personnes les plus fréquentes')
+    bar_df_sorted = bar_df.sort_values(by='Values', ascending=False)
+    bar_fig = px.bar(bar_df_sorted, x='Names', y='Values', labels={'Names': 'Nom', 'Values': 'Valeur'}, title='Histogramme des 10 personnes les plus fréquentes')
 
     with open(f"PeopleSaves/{selected_dropdown_value}_Top10_People_Evolution.json",'r') as f:
         line_dict = json.load(f)
@@ -124,7 +125,7 @@ def update_map(selected_dropdown_value_1, selected_dropdown_value_2):
     return map_fig
 
 
+
 if __name__ == '__main__':
-    update_2_dropdown("MALI_ER")
         
     app.run_server(debug=True)

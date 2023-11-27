@@ -12,11 +12,11 @@
 10,Burkina Faso,460,BFA
 11,Liberia,4,LBR
 12,Sierra Leone,8,SLE
-13,République centrafricaine,17,CAF
-14,Centrafrique,34,CAF
-15,Congo,6,COG
-16,Soudan,43,SDN
-17,Cameroun,125,CMR
+13,Centrafrique,34,CAF
+14,Congo,6,COG
+15,Soudan,43,SDN
+16,Cameroun,125,CMR
+17,États-Unis,330,USA
 18,Chine,141,CHN
 19,Inde,32,IND
 20,Canada,33,CAN
@@ -29,34 +29,31 @@
 27,Guinée,122,GIN
 28,Ghana,39,GHA
 29,Somalie,6,SOM
-30,Japon,4,JPN
-31,Nigeria,97,NGA
-32,Irak,40,IRQ
-33,Iran,16,IRN
-34,Égypte,52,EGY
-35,Nigéria,15,NGA
-36,Émirats arabes unis,20,ARE
+30,Bahreïn,9,BHR
+31,Japon,4,JPN
+32,Nigeria,97,NGA
+33,Irak,40,IRQ
+34,Iran,16,IRN
+35,Égypte,52,EGY
+36,Nigéria,15,NGA
 37,Togo,230,TGO
-38,Émirats Arabes Unis,2,ARE
-39,Qatar,10,QAT
-40,Brésil,2,BRA
-41,Benin,3,BEN
-42,Venezuela,12,VEN
-43,Kenya,10,KEN
-44,Gambie,14,GMB
-45,Vénézuéla,2,VEN
-46,Danemark,2,DNK
-47,Italie,21,ITA
+38,Qatar,10,QAT
+39,Brésil,2,BRA
+40,Benin,3,BEN
+41,Venezuela,12,VEN
+42,Kenya,10,KEN
+43,Gambie,14,GMB
+44,Vénézuéla,2,VEN
+45,Danemark,2,DNK
+46,Italie,21,ITA
+47,Pays-Bas,6,NLD
 48,Grèce,4,GRC
 49,Autriche,4,AUT
 50,Madagascar,5,MDG
-51,Corée du Sud,2,KOR
-52,Guinée équatoriale,15,GNQ
-53,Seychelles,2,SYC
-54,Zimbabwe,4,ZWE
-55,Espagne,24,ESP
-56,Guinée Équatoriale,12,GNQ
-57,Gabon,12,GAB
-58,Albanie,2,ALB
-59,Norvège,6,NOR
-60,Jordanie,9,JOR
+51,Seychelles,2,SYC
+52,Zimbabwe,4,ZWE
+53,Espagne,24,ESP
+54,Gabon,12,GAB
+55,Albanie,2,ALB
+56,Norvège,6,NOR
+57,Jordanie,9,JOR

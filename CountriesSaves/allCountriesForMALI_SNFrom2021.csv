@@ -1,12 +1,12 @@
 ,Loc,Value,ISO-3
 0,Tchad,251,TCD
 1,Centrafrique,34,CAF
-2,Soudan du Sud,2,SSD
-3,Togo,230,TGO
-4,Algérie,672,DZA
-5,France,1516,FRA
-6,Niger,454,NER
-7,Russie,520,RUS
+2,Togo,230,TGO
+3,Algérie,672,DZA
+4,France,1516,FRA
+5,Niger,454,NER
+6,Russie,520,RUS
+7,États-Unis,330,USA
 8,Cameroun,125,CMR
 9,Bénin,71,BEN
 10,Burkina Faso,460,BFA
@@ -27,28 +27,30 @@
 25,Australie,14,AUS
 26,Guinée,122,GIN
 27,Hongrie,2,HUN
-28,République Tchèque,2,CZE
-29,Italie,21,ITA
-30,Portugal,4,PRT
-31,Nigéria,15,NGA
-32,Nigeria,97,NGA
-33,Guinée équatoriale,15,GNQ
-34,Gabon,12,GAB
-35,Serbie,11,SRB
-36,Qatar,10,QAT
-37,Zimbabwe,4,ZWE
-38,Égypte,52,EGY
-39,Soudan,43,SDN
-40,Afghanistan,63,AFG
-41,Syrie,107,SYR
-42,Irak,40,IRQ
+28,Italie,21,ITA
+29,Portugal,4,PRT
+30,Nigéria,15,NGA
+31,Nigeria,97,NGA
+32,Gabon,12,GAB
+33,Serbie,11,SRB
+34,Qatar,10,QAT
+35,Zimbabwe,4,ZWE
+36,Égypte,52,EGY
+37,Soudan,43,SDN
+38,Afghanistan,63,AFG
+39,Syrie,107,SYR
+40,Irak,40,IRQ
+41,Royaume-Uni,30,GBR
+42,Etats-Unis,2,USA
 43,Liberia,4,LBR
 44,Pakistan,6,PAK
 45,Inde,32,IND
 46,Yémen,11,YEM
 47,Iran,16,IRN
-48,République centrafricaine,17,CAF
+48,Israël,30,ISR
 49,Angola,6,AGO
 50,Congo,6,COG
 51,Estonie,4,EST
-52,Vietnam,4,VNM
+52,Taïwan,2,TWN
+53,Vietnam,4,VNM
+54,Haïti,3,HTI
