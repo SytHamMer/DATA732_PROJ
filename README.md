@@ -12,17 +12,14 @@ GENERAL:
 REGENERATE ALL FILES AGAIN 
 
 MAP:
-use city name in each contries 
-take +1 for each article or each apparition by article
-
-
 Nombre d'article liant MALI/FRANCE AU PAYS SELECTIONNE
+
 
 
 MULTIPROCESSING:
     divide the article boucle in multiprocess
 
-DASHBOARD:
 
+DASHBOARD:
     put the graphe relationnel image
     make it more beautiful

@@ -48,7 +48,10 @@ app.layout = html.Div([
     # Carte
     dcc.Graph(id='map', config={'scrollZoom': False}),
     
+    
     ])
+
+
 
 
 #callback menu deroulant
