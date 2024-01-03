@@ -6,15 +6,13 @@ import json
 
 # DATA
 
+external_stylesheets =  ['https://codepen.io/chriddyp/pen/bWLwgP.css'] 
 
+#CSS
 
-
-
-
-
-
-app = dash.Dash(__name__)
-
+colors = {'background' : '#111111',
+          'text':"#7FDBFF"}
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 app.layout = html.Div([
     html.H1("Dashboard"),
@@ -39,6 +37,11 @@ app.layout = html.Div([
                      options=[], 
                      value='')      
     ]),
+    html.Div([
+        html.H2("CACA"),  # Ajoutez votre titre au-dessus de l'image
+        html.Img(src='/gephi/FRANCE_FdS.svg', id='svg-image')  # Ajoutez l'image SVG
+    ]),
+    
     # Histogramme 2D
     dcc.Graph(id='bar'),
 
@@ -50,7 +53,6 @@ app.layout = html.Div([
     
     
     ])
-
 
 
 
@@ -126,7 +128,6 @@ def update_map(selected_dropdown_value_1, selected_dropdown_value_2):
 
     map_fig.update_layout(title_text=f'Heatmap of countries in {selected_dropdown_value_1} for {selected_dropdown_value_2}')  # Set the title
     return map_fig
-
 
 
 if __name__ == '__main__':
