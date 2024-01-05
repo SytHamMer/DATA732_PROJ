@@ -31,6 +31,11 @@
       "ISO-3": "BRA"
     },
     {
+      "Loc": "mali",
+      "Value": 1,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "irak",
       "Value": 1,
       "ISO-3": "IRQ"
@@ -253,6 +258,11 @@
       "ISO-3": "PAK"
     },
     {
+      "Loc": "mali",
+      "Value": 1,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "guinee",
       "Value": 1,
       "ISO-3": "GIN"
@@ -378,6 +388,11 @@
       "Loc": "pakistan",
       "Value": 4,
       "ISO-3": "PAK"
+    },
+    {
+      "Loc": "mali",
+      "Value": 67,
+      "ISO-3": "MLI"
     },
     {
       "Loc": "guinee",
@@ -849,6 +864,11 @@
       "ISO-3": "SEN"
     },
     {
+      "Loc": "mali",
+      "Value": 1,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "guinee",
       "Value": 1,
       "ISO-3": "GIN"
@@ -1151,6 +1171,11 @@
       "Loc": "pakistan",
       "Value": 2,
       "ISO-3": "PAK"
+    },
+    {
+      "Loc": "mali",
+      "Value": 1,
+      "ISO-3": "MLI"
     },
     {
       "Loc": "guinee",
@@ -1697,6 +1722,11 @@
       "Loc": "italie",
       "Value": 11,
       "ISO-3": "ITA"
+    },
+    {
+      "Loc": "mali",
+      "Value": 3,
+      "ISO-3": "MLI"
     },
     {
       "Loc": "guinee",

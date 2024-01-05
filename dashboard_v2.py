@@ -99,7 +99,7 @@ def update_top_10(option_selected):
         else:
             line_fig.add_scatter(x=dates, y=values_list, mode='lines', name=key)
     
-    svg_file = f"{option_selected}.svg"
+    svg_file = f"gephi/{option_selected}.svg"
     child = html.Div([html.H3(f"Graphe relationelle des personnes se trouvant dans les articles de {option_selected}",
                               style = {'text-align': 'center'}),
                       html.Img(src=dash.get_asset_url(svg_file))],
@@ -121,7 +121,8 @@ def update_map(person_selected,journal_selected):
         contries_data = json.load(f)
     data_pers = contries_data[person_selected]
     df_map = pd.DataFrame(data_pers)    
-    
+    min_value  = df_map["Value"].min()
+    max_value = df_map["Value"].max()
     fig = px.choropleth(
         data_frame=df_map,
         locationmode="ISO-3",
@@ -129,7 +130,7 @@ def update_map(person_selected,journal_selected):
         color="Value",
         hover_data=["Loc","Value"],
         color_continuous_scale=px.colors.sequential.YlOrRd,
-        labels = {"ICI"},
+        range_color=(min_value,max_value),
         template="plotly_dark"
     )
     return fig

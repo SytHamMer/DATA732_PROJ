@@ -66,6 +66,11 @@
       "ISO-3": "RUS"
     },
     {
+      "Loc": "mali",
+      "Value": 9,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "guinee",
       "Value": 8,
       "ISO-3": "GIN"
@@ -331,6 +336,11 @@
       "Loc": "suisse",
       "Value": 4,
       "ISO-3": "CHE"
+    },
+    {
+      "Loc": "mali",
+      "Value": 2,
+      "ISO-3": "MLI"
     },
     {
       "Loc": "guinee",
@@ -1302,6 +1312,11 @@
       "ISO-3": "TCD"
     },
     {
+      "Loc": "mali",
+      "Value": 2,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "guinee",
       "Value": 2,
       "ISO-3": "GIN"
@@ -1677,6 +1692,11 @@
       "Loc": "liban",
       "Value": 3,
       "ISO-3": "LBN"
+    },
+    {
+      "Loc": "mali",
+      "Value": 1,
+      "ISO-3": "MLI"
     },
     {
       "Loc": "guinee",

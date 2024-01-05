@@ -21,6 +21,11 @@
       "ISO-3": "BEN"
     },
     {
+      "Loc": "france",
+      "Value": 221,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "burkina faso",
       "Value": 48,
       "ISO-3": "BFA"
@@ -338,6 +343,11 @@
       "ISO-3": "USA"
     },
     {
+      "Loc": "france",
+      "Value": 47,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "tchad",
       "Value": 5,
       "ISO-3": "TCD"
@@ -565,6 +575,11 @@
       "ISO-3": "SDN"
     },
     {
+      "Loc": "france",
+      "Value": 30,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "etatsunis",
       "Value": 13,
       "ISO-3": "USA"
@@ -765,6 +780,11 @@
       "Loc": "tchad",
       "Value": 8,
       "ISO-3": "TCD"
+    },
+    {
+      "Loc": "france",
+      "Value": 72,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "japon",
@@ -1049,6 +1069,11 @@
   ],
   "tshisekedi": [
     {
+      "Loc": "france",
+      "Value": 34,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "cameroun",
       "Value": 8,
       "ISO-3": "CMR"
@@ -1241,6 +1266,11 @@
       "ISO-3": "TCD"
     },
     {
+      "Loc": "france",
+      "Value": 34,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "centrafrique",
       "Value": 25,
       "ISO-3": "CAF"
@@ -1403,6 +1433,11 @@
       "ISO-3": "GIN"
     },
     {
+      "Loc": "france",
+      "Value": 1,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "erythree",
       "Value": 1,
       "ISO-3": "ERI"
@@ -1418,6 +1453,11 @@
       "Loc": "cameroun",
       "Value": 29,
       "ISO-3": "CMR"
+    },
+    {
+      "Loc": "france",
+      "Value": 24,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "tchad",
@@ -1600,6 +1640,11 @@
       "Loc": "guinee",
       "Value": 54,
       "ISO-3": "GIN"
+    },
+    {
+      "Loc": "france",
+      "Value": 92,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "russie",
@@ -1927,6 +1972,11 @@
       "Loc": "guinee",
       "Value": 45,
       "ISO-3": "GIN"
+    },
+    {
+      "Loc": "france",
+      "Value": 26,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "russie",

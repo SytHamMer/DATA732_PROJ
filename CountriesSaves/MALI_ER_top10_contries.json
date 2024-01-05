@@ -1,6 +1,11 @@
 {
   "macron": [
     {
+      "Loc": "france",
+      "Value": 13,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "etatsunis",
       "Value": 5,
       "ISO-3": "USA"
@@ -133,6 +138,11 @@
       "ISO-3": "USA"
     },
     {
+      "Loc": "france",
+      "Value": 8,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "niger",
       "Value": 4,
       "ISO-3": "NER"
@@ -200,6 +210,11 @@
       "ISO-3": "GBR"
     },
     {
+      "Loc": "france",
+      "Value": 1,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "etatsunis",
       "Value": 1,
       "ISO-3": "USA"
@@ -265,6 +280,11 @@
       "Loc": "royaumeuni",
       "Value": 1,
       "ISO-3": "GBR"
+    },
+    {
+      "Loc": "france",
+      "Value": 3,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "etatsunis",
@@ -362,6 +382,11 @@
       "Loc": "royaumeuni",
       "Value": 1,
       "ISO-3": "GBR"
+    },
+    {
+      "Loc": "france",
+      "Value": 2,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "etatsunis",
@@ -551,6 +576,11 @@
       "Loc": "soudan",
       "Value": 1,
       "ISO-3": "SDN"
+    },
+    {
+      "Loc": "france",
+      "Value": 1,
+      "ISO-3": "FRA"
     }
   ],
   "ghali": [
@@ -570,6 +600,11 @@
       "ISO-3": "BFA"
     },
     {
+      "Loc": "france",
+      "Value": 2,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "espagne",
       "Value": 1,
       "ISO-3": "ESP"
@@ -586,6 +621,11 @@
     }
   ],
   "traore": [
+    {
+      "Loc": "france",
+      "Value": 12,
+      "ISO-3": "FRA"
+    },
     {
       "Loc": "canada",
       "Value": 3,
@@ -688,6 +728,11 @@
     }
   ],
   "habib": [
+    {
+      "Loc": "france",
+      "Value": 1,
+      "ISO-3": "FRA"
+    },
     {
       "Loc": "canada",
       "Value": 1,

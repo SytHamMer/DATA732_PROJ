@@ -305,6 +305,11 @@
       "ISO-3": "USA"
     },
     {
+      "Loc": "mali",
+      "Value": 7,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "guinee",
       "Value": 6,
       "ISO-3": "GIN"
@@ -499,6 +504,11 @@
       "Loc": "canada",
       "Value": 3,
       "ISO-3": "CAN"
+    },
+    {
+      "Loc": "mali",
+      "Value": 2,
+      "ISO-3": "MLI"
     },
     {
       "Loc": "guinee",

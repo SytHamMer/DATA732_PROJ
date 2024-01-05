@@ -6,6 +6,11 @@
       "ISO-3": "GIN"
     },
     {
+      "Loc": "france",
+      "Value": 5,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "afghanistan",
       "Value": 1,
       "ISO-3": "AFG"
@@ -31,6 +36,11 @@
       "Loc": "senegal",
       "Value": 1,
       "ISO-3": "SEN"
+    },
+    {
+      "Loc": "france",
+      "Value": 1,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "nigeria",
@@ -59,6 +69,11 @@
     }
   ],
   "macron": [
+    {
+      "Loc": "france",
+      "Value": 85,
+      "ISO-3": "FRA"
+    },
     {
       "Loc": "guinee",
       "Value": 57,
@@ -257,6 +272,11 @@
       "ISO-3": "BFA"
     },
     {
+      "Loc": "france",
+      "Value": 24,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "tchad",
       "Value": 5,
       "ISO-3": "TCD"
@@ -292,6 +312,11 @@
       "Loc": "guinee",
       "Value": 34,
       "ISO-3": "GIN"
+    },
+    {
+      "Loc": "france",
+      "Value": 17,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "italie",
@@ -446,6 +471,11 @@
       "ISO-3": "GIN"
     },
     {
+      "Loc": "france",
+      "Value": 4,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "italie",
       "Value": 1,
       "ISO-3": "ITA"
@@ -511,6 +541,11 @@
       "Loc": "koweit",
       "Value": 1,
       "ISO-3": "KWT"
+    },
+    {
+      "Loc": "france",
+      "Value": 4,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "jordanie",
@@ -637,6 +672,11 @@
       "ISO-3": "PRY"
     },
     {
+      "Loc": "france",
+      "Value": 1,
+      "ISO-3": "FRA"
+    },
+    {
       "Loc": "venezuela",
       "Value": 2,
       "ISO-3": "VEN"
@@ -692,6 +732,11 @@
       "Loc": "guinee",
       "Value": 17,
       "ISO-3": "GIN"
+    },
+    {
+      "Loc": "france",
+      "Value": 19,
+      "ISO-3": "FRA"
     },
     {
       "Loc": "burkina faso",

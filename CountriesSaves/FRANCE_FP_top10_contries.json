@@ -36,6 +36,11 @@
       "ISO-3": "BDI"
     },
     {
+      "Loc": "mali",
+      "Value": 31,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "cameroun",
       "Value": 13,
       "ISO-3": "CMR"
@@ -353,6 +358,11 @@
       "ISO-3": "TUR"
     },
     {
+      "Loc": "mali",
+      "Value": 10,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "guinee",
       "Value": 9,
       "ISO-3": "GIN"
@@ -658,6 +668,11 @@
       "Loc": "burundi",
       "Value": 2,
       "ISO-3": "BDI"
+    },
+    {
+      "Loc": "mali",
+      "Value": 66,
+      "ISO-3": "MLI"
     },
     {
       "Loc": "cameroun",
@@ -1202,6 +1217,11 @@
       "ISO-3": "UKR"
     },
     {
+      "Loc": "mali",
+      "Value": 3,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "guinee",
       "Value": 3,
       "ISO-3": "GIN"
@@ -1297,6 +1317,11 @@
       "Loc": "danemark",
       "Value": 5,
       "ISO-3": "DNK"
+    },
+    {
+      "Loc": "mali",
+      "Value": 62,
+      "ISO-3": "MLI"
     },
     {
       "Loc": "guinee",
@@ -1826,6 +1851,11 @@
       "ISO-3": "BFA"
     },
     {
+      "Loc": "mali",
+      "Value": 16,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "guinee",
       "Value": 17,
       "ISO-3": "GIN"
@@ -2026,6 +2056,11 @@
       "Loc": "etatsunis",
       "Value": 46,
       "ISO-3": "USA"
+    },
+    {
+      "Loc": "mali",
+      "Value": 7,
+      "ISO-3": "MLI"
     },
     {
       "Loc": "guinee",
@@ -2475,6 +2510,11 @@
       "ISO-3": "ARG"
     },
     {
+      "Loc": "mali",
+      "Value": 2,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "ghana",
       "Value": 1,
       "ISO-3": "GHA"
@@ -2537,6 +2577,11 @@
       "ISO-3": "USA"
     },
     {
+      "Loc": "mali",
+      "Value": 2,
+      "ISO-3": "MLI"
+    },
+    {
       "Loc": "guinee",
       "Value": 1,
       "ISO-3": "GIN"
@@ -2553,6 +2598,11 @@
     }
   ],
   "barkhane": [
+    {
+      "Loc": "mali",
+      "Value": 230,
+      "ISO-3": "MLI"
+    },
     {
       "Loc": "guinee",
       "Value": 187,
