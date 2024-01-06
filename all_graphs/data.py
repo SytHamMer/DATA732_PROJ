@@ -3,6 +3,8 @@ import re
 import unicodedata
 import Levenshtein  as lvs
 
+# Ce fichier permet de regrouper toutes les fonctions propres aux données de ce projet, il centralise la normalisation des données et les différentes 
+# fonctions permettant de regrouper par similarité des mots proches
 DICT = {"MALI_ER": "topaz-data732--mali--www.egaliteetreconciliation.fr--20190101--20211231.json",
         "MALI_FP":"topaz-data732--mali--french.presstv.ir--20190101--20211231.json",
         "MALI_SN":"topaz-data732--mali--fr.sputniknews.africa--20190101--20211231.json",
@@ -27,10 +29,10 @@ def open_file(fileName):
 
     
 def normalize_name(name):
-    #remove accents
+    #Supprime les accents
     step1 = unicodedata.normalize("NFD",name)
     
-    #remove special character and non alphabetical ones
+    #Supprimes tous les caractères n'étant pas des lettres
     step2 = re.sub(r'[^a-zA-Z\s]','',step1)
     
     finalStep = step2.lower()
@@ -38,8 +40,7 @@ def normalize_name(name):
 
 
 def same_name(name1,name2,limite):
-    #the idea is to join similar name together in order to normalize data and clear it
-    
+    #L'idée ici est de joindre les noms de personnes similaires entre elle, afin de nétoyer et clear les données
 
     if lvs.distance(name1,name2.split(" ")[-1]) < limite:
         return True
@@ -110,20 +111,13 @@ def get_merge_name(mergeList,newName):
         
         return minName
     
-#Version plus opti ?    
-# def get_merge_name(mergeList, newName):
-#     if " " in newName:
-#         last_word = newName.split()[-1]
-#         return min(mergeList, key=lambda name: lvs.distance(name, last_word))
-#     else:
-#         return min(mergeList, key=lambda name: lvs.distance(name, newName))
-    
+ 
 if __name__ == '__main__':
-    # print(same_name("zemmour","erkjihuugiic zemmour",3))
+    
+    
+    #BATTERIE DE TESTS
     
     liste = ['kabore', 'ouattara', 'macron', 'kebbab', 'shurkin', 'barkhane',
        'lelievre', 'barriere', 'conrad', 'soulages','terrafirma', 'sportolloni', 'richard', 'indoor', 'bardella',
        'bensussan', 'monsieur', 'zagury', 'bermandoa', 'idriss']
-    #print(merge_same_name({"zemmour":1,"camion":2,"brouette":3,"eric":4},"zemmour",2,6))
-    # print(merge_same_name({},"zemmour",2,6))
     print(get_merge_name(liste,"Soulages"))

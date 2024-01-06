@@ -6,7 +6,6 @@ from dash.dependencies import Input,Output
 import json
 
 app = dash.Dash(__name__, external_stylesheets=['assets/styles.css'])
-# app = dash.Dash(__name__, external_stylesheets=['assets/styles.css'], suppress_callback_exceptions=True)
 
 #IMPORT DATA
 
@@ -140,7 +139,7 @@ def update_top_10(option_selected):
 def update_map(person_selected,journal_selected):
     with open(f"CountriesSaves/{journal_selected}_top10_contries.json",'r')as f:
         contries_data = json.load(f)
-    # print(person_selected)
+        
     #Cas ou y'a rien de séléctionner
     if type(person_selected) == int:
         #cas chargement de la page
@@ -168,13 +167,6 @@ def update_map(person_selected,journal_selected):
 
     )
     return fig
-
-
-
-
-
-
-    
-if __name__ == '__main__':
-        
+  
+if __name__ == '__main__':   
     app.run_server(debug=True)
